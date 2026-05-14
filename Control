@@ -1,0 +1,9 @@
+Package: com.neilz.nullsmod
+Name: NullsMod
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Map Maker Restrictions Remover
+Maintainer: neilz
+Author: neilz
+Section: Tweaks
